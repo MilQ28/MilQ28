@@ -1,11 +1,11 @@
 <!-- HEADER MEWAH -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,50:FF1493,100:9400D3&height=300&section=header&text=SYAMIL%20CA&fontSize=80&fontAlignY=35&animation=fadeIn&desc=✨%20Premium%20UltraMax%20Developer%20✨&descAlignY=55&descSize=25&fontColor=fff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,50:FF1493,100:9400D3&height=300&section=header&text=SYAMIL%20CHOLID%20ATSANI&fontSize=40&fontAlignY=35&animation=fadeIn&desc=%20Full+Stack%20Developer%20&descAlignY=55&descSize=25&fontColor=fff" width="100%"/>
 </div>
 
 <!-- TYPING ANIMATION -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=700&lines=Welcome+to+My+Digital+Kingdom+👑;Full+Stack+Developer+💻;UI%2FUX+Enthusiast+🎨;Always+Learning+🚀" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=700&lines=Welcome+to+My+Digital+Kingdom;Full+Stack+Developer;Artificial%20Intelligence+User+:];I+Want+the+World+In+My+Hands" alt="Typing Animation" />
 </div>
 
 <br>
@@ -21,16 +21,16 @@
 
 <!-- SOCIAL LINKS -->
 <div align="center">
-  <a href="https://linkedin.com/in/syamil-ca">
+  <a href="[https://linkedin.com/in/syamil-ca](https://www.linkedin.com/in/syamil-cholid-atsani-2b54b828a/)">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:syamilcholidatsani@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://instagram.com/syamil.ca">
+  <a href="https://instagram.com/samil.bsyv/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://discord.gg/syamil">
+  <a href="https://discord.gg/5AfRYqjX">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </div>
@@ -38,14 +38,14 @@
 <br>
 
 <!-- ABOUT ME -->
-<h2 align="center">👑 About The Legend 👑</h2>
+<h2 align="center">👑 About Me 👑</h2>
 
 <div align="center">
   
 ### 🚀 What I'm Up To
-- 🔭 Currently crafting **Premium UltraMax Applications**
-- 🌱 Mastering **Cloud Architecture & AI Integration**
-- 💬 Ask me about **JavaScript, Python, or Life Advice**
+- 🔭 Currently at school **SMK Telkom Lampung**
+- 🌱 Mastering **React & Json-Server**
+- 💬 Ask me about **Anything but love story**
 - ⚡ Fun fact: **I turn coffee into scalable code** ☕➡️💻
 
 </div>
@@ -53,7 +53,7 @@
 <br>
 
 <!-- TECH STACK -->
-<h2 align="center">⚔️ Tech Arsenal ⚔️</h2>
+<h2 align="center">⚔️ My Future Skills ⚔️</h2>
 
 <div align="center">
 
@@ -77,9 +77,9 @@
 <h2 align="center">📊 Performance Metrics 📊</h2>
 
 <div align="center">
-  <!-- PAKAI CACHE & RICKSTAA INSTANCE (lebih stabil) -->
-  <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MilQ28&show_icons=true&count_private=true&hide_border=true&title_color=FFD700&icon_color=FF1493&text_color=c9d1d9&bg_color=0d1117&cache_seconds=86400" alt="GitHub Stats" /> 
-  <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MilQ28&layout=compact&hide_border=true&title_color=FFD700&text_color=c9d1d9&bg_color=0d1117&cache_seconds=86400" alt="Top Languages" />
+  <!-- Removed count_private (requires PAT) & using official instance -->
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=MilQ28&show_icons=true&hide_border=true&title_color=FFD700&icon_color=FF1493&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true" alt="GitHub Stats" /> 
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MilQ28&layout=compact&hide_border=true&title_color=FFD700&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" />
 </div>
 
 <br>
@@ -126,11 +126,5 @@
 
 <!-- FOOTER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9400D3,50:FF1493,100:FFD700&height=200&section=footer&text=Thanks%20For%20Visiting!&fontSize=50&fontAlignY=70&animation=fadeIn&desc=Star%20my%20repos%20if%20you%20like%20them!&descAlignY=90&descSize=20&fontColor=fff" width="100%"/>
-</div>
-
-<div align="center">
-  <b>⭐ Star this repo if you like my profile! ⭐</b>
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=MilQ28&label=Total%20Visits&color=gold&style=flat-square" alt="Total Visits" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9400D3,50:FF1493,100:FFD700&height=200&section=footer&text=Thanks%20For%20Visiting!&fontSize=50&fontAlignY=70&animation=fadeIn&fontColor=fff" width="100%"/>
 </div>
