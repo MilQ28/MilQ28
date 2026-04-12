@@ -58,10 +58,10 @@
 <h2 align="center">🚀 Featured Projects</h2>
 <div align="center">
   <!-- GANTI 'nama-repo-1' dengan nama repository kamu yang beneran ada -->
-  <a href="https://github.com/MilQ28/nama-repo-1">
+  <a href="https://github.com/MilQ28/Javascript-Calculator">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=MilQ28&repo=nama-repo-1&theme=dark&hide_border=true&title_color=FFD700&icon_color=FF1493&bg_color=0d1117" />
   </a>
-  <a href="https://github.com/MilQ28/nama-repo-2">
+  <a href="https://github.com/MilQ28/Dicoding-Fullstack">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=MilQ28&repo=nama-repo-2&theme=dark&hide_border=true&title_color=FFD700&icon_color=FF1493&bg_color=0d1117" />
   </a>
 </div>
