@@ -45,7 +45,7 @@
 &lt;img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"&gt;
 
 &lt;!-- ABOUT ME SECTION --&gt;
-&lt;h2 align="center"&gt;👑 &lt;span style="color: #FFD700;"&gt;About The Legend&lt;/span&gt; 👑&lt;/h2&gt;
+&lt;h2 align="center"&gt;👑 About The Legend 👑&lt;/h2&gt;
 
 &lt;table align="center" border="0"&gt;
   &lt;tr&gt;
@@ -66,7 +66,7 @@
 
     &lt;/td&gt;
     &lt;td width="40%" align="center"&gt;
-      &lt;img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="300px" alt="Coding GIF"&gt;
+      &lt;img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/Right_Side.gif" width="300px" alt="Coding GIF"&gt;
       &lt;br&gt;
       &lt;img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300px" alt="Coding"&gt;
     &lt;/td&gt;
@@ -76,33 +76,43 @@
 &lt;br&gt;
 
 &lt;!-- TECH STACK PREMIUM --&gt;
-&lt;h2 align="center"&gt;⚔️ &lt;span style="color: #FFD700;"&gt;Tech Arsenal&lt;/span&gt; ⚔️&lt;/h2&gt;
+&lt;h2 align="center"&gt;⚔️ Tech Arsenal ⚔️&lt;/h2&gt;
 
 &lt;div align="center"&gt;
 
 ### 🎨 Frontend Mastery
-&lt;img src="https://skillicons.dev/icons?i=react,nextjs,vue,typescript,javascript,tailwind,sass,html,css,figma&theme=dark&perline=10" /&gt;
+&lt;p&gt;
+  &lt;img src="https://skillicons.dev/icons?i=react,nextjs,vue,typescript,javascript,tailwind,sass,html,css,figma&theme=dark&perline=10" /&gt;
+&lt;/p&gt;
 
 ### ⚙️ Backend Power
-&lt;img src="https://skillicons.dev/icons?i=nodejs,python,go,express,django,fastapi,graphql,prisma&theme=dark&perline=8" /&gt;
+&lt;p&gt;
+  &lt;img src="https://skillicons.dev/icons?i=nodejs,python,go,express,django,fastapi,graphql,prisma&theme=dark&perline=8" /&gt;
+&lt;/p&gt;
 
 ### 🗄️ Database & Cloud
-&lt;img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,supabase,firebase,aws,gcp,docker,kubernetes,terraform&theme=dark&perline=10" /&gt;
+&lt;p&gt;
+  &lt;img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,supabase,firebase,aws,gcp,docker,kubernetes,terraform&theme=dark&perline=10" /&gt;
+&lt;/p&gt;
 
 ### 🛠️ DevOps & Tools
-&lt;img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,vim,linux,bash,nginx,jenkins&theme=dark&perline=9" /&gt;
+&lt;p&gt;
+  &lt;img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,vim,linux,bash,nginx,jenkins&theme=dark&perline=9" /&gt;
+&lt;/p&gt;
 
 &lt;/div&gt;
 
 &lt;br&gt;
 
 &lt;!-- GITHUB STATS MEWAH --&gt;
-&lt;h2 align="center"&gt;📊 &lt;span style="color: #FFD700;"&gt;Performance Metrics&lt;/span&gt; 📊&lt;/h2&gt;
+&lt;h2 align="center"&gt;📊 Performance Metrics 📊&lt;/h2&gt;
 
 &lt;div align="center"&gt;
   &lt;img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MilQ28&show_icons=true&count_private=true&hide_border=true&title_color=FFD700&icon_color=FF1493&text_color=c9d1d9&bg_color=0d1117" alt="Syamil CA GitHub Stats" /&gt; 
   &lt;img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MilQ28&layout=compact&hide_border=true&title_color=FFD700&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" /&gt;
 &lt;/div&gt;
+
+&lt;br&gt;
 
 &lt;div align="center"&gt;
   &lt;img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=MilQ28&theme=highcontrast&hide_border=true&background=0d1117&stroke=FFD700&ring=FF1493&fire=FFD700&currStreakNum=FFD700&sideNums=FF1493&currStreakLabel=FFD700&sideLabels=FF1493" alt="GitHub Streak" /&gt;
@@ -111,7 +121,7 @@
 &lt;br&gt;
 
 &lt;!-- TROPHY COLLECTION --&gt;
-&lt;h2 align="center"&gt;🏆 &lt;span style="color: #FFD700;"&gt;Trophy Collection&lt;/span&gt; 🏆&lt;/h2&gt;
+&lt;h2 align="center"&gt;🏆 Trophy Collection 🏆&lt;/h2&gt;
 
 &lt;div align="center"&gt;
   &lt;img src="https://github-profile-trophy.vercel.app/?username=MilQ28&theme=darkhub&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" width="100%" alt="Trophy" /&gt;
@@ -120,7 +130,7 @@
 &lt;br&gt;
 
 &lt;!-- ACTIVITY GRAPH --&gt;
-&lt;h2 align="center"&gt;🔥 &lt;span style="color: #FFD700;"&gt;Contribution Inferno&lt;/span&gt; 🔥&lt;/h2&gt;
+&lt;h2 align="center"&gt;🔥 Contribution Inferno 🔥&lt;/h2&gt;
 
 &lt;div align="center"&gt;
   &lt;img src="https://github-readme-activity-graph.vercel.app/graph?username=MilQ28&bg_color=0d1117&color=FFD700&line=FF1493&point=FFD700&area=true&hide_border=true" width="95%" alt="Activity Graph" /&gt;
@@ -129,7 +139,7 @@
 &lt;br&gt;
 
 &lt;!-- SNAKE ANIMATION --&gt;
-&lt;h2 align="center"&gt;🐍 &lt;span style="color: #FFD700;"&gt;Contribution Snake&lt;/span&gt; 🐍&lt;/h2&gt;
+&lt;h2 align="center"&gt;🐍 Contribution Snake 🐍&lt;/h2&gt;
 
 &lt;div align="center"&gt;
   &lt;picture&gt;
@@ -142,7 +152,7 @@
 &lt;br&gt;
 
 &lt;!-- SPOTIFY NOW PLAYING (Premium Touch) --&gt;
-&lt;h2 align="center"&gt;🎵 &lt;span style="color: #FFD700;"&gt;Now Playing&lt;/span&gt; 🎵&lt;/h2&gt;
+&lt;h2 align="center"&gt;🎵 Now Playing 🎵&lt;/h2&gt;
 
 &lt;div align="center"&gt;
   &lt;img src="https://spotify-github-profile.vercel.app/api/spotify?background_color=0d1117&border_color=FFD700" alt="Spotify Now Playing" width="350px" /&gt;
@@ -152,7 +162,7 @@
 
 &lt;!-- QUOTES --&gt;
 &lt;div align="center"&gt;
-  &lt;img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it,%20it%E2%80%99s%20bad.&author=Cory%20House" width="60%" /&gt;
+  &lt;img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true" width="60%" /&gt;
 &lt;/div&gt;
 
 &lt;br&gt;
@@ -162,9 +172,13 @@
   &lt;img src="https://capsule-render.vercel.app/api?type=waving&color=0:9400D3,50:FF1493,100:FFD700&height=200&section=footer&text=Thanks%20For%20Visiting!&fontSize=50&fontAlignY=70&animation=fadeIn&desc=⭐%20Star%20my%20repos%20if%20you%20like%20them!%20⭐&descAlignY=90&descSize=20&fontColor=fff" width="100%"/&gt;
 &lt;/div&gt;
 
+&lt;br&gt;
+
 &lt;div align="center"&gt;
   
   **⭐ Star this repo if you like my profile! ⭐**
+  
+  &lt;br&gt;
   
   &lt;img src="https://komarev.com/ghpvc/?username=MilQ28&label=Total%20Visits&color=gold&style=flat-square" alt="Total Visits" /&gt;
   
