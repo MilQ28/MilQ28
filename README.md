@@ -196,7 +196,6 @@
 
 <div align="center">
 
-```yaml
 PHASE_1: MASTER_FUNDAMENTALS
   status: ✅ COMPLETED
   tech: [HTML, CSS, JS, PHP]
@@ -212,7 +211,6 @@ PHASE_3: REAL_WORLD_DEPLOYMENT
 PHASE_4: PROFESSIONAL_INTEGRATION
   status: ⏳ PENDING
   target: First Tech Internship
-```
 
 </div>
 
@@ -243,4 +241,3 @@ PHASE_4: PROFESSIONAL_INTEGRATION
   **© 2099 SYAMIL CA | LAMPUNG CYBER ZONE | ALL RIGHTS RESERVED**
   
 </div>
-```
