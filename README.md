@@ -3,7 +3,7 @@
   &lt;img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,50:1a1a1a,100:0f172a&height=250&section=header&text=Syamil%20CA&fontSize=70&fontAlignY=55&animation=fadeIn&desc=Software%20Engineering%20Student%20%7C%20Full%20Stack%20Developer&descAlignY=75&descSize=18&fontColor=d4af37" width="100%"/&gt;
 &lt;/div&gt;
 
-&lt;!-- TYPING ANIMATION --&gt;
+&lt;!-- TYPING --&gt;
 &lt;div align="center"&gt;
   &lt;img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=300&size=28&duration=4000&pause=1000&color=94a3b8&center=true&vCenter=true&width=600&lines=Crafting+digital+experiences+with+precision;Building+scalable+solutions+from+Lampung;Always+learning%2C+always+growing" alt="Typing" /&gt;
 &lt;/div&gt;
