@@ -1,243 +1,196 @@
-<!-- EXTREME EPIC HEADER - CYBERPUNK STYLE -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=shark&color=0:00FFFF,25:FF00FF,50:FFFF00,75:FF00FF,100:00FFFF&height=350&section=header&text=SYAMIL%20CA&fontSize=90&fontAlignY=40&animation=twinkling&desc=👾%20CYBERNETIC%20RPL%20STUDENT%20FROM%202099%20👾&descAlignY=60&descSize=25&fontColor=fff&stroke=00FFFF&strokeWidth=2" width="100%"/>
-</div>
+&lt;!-- LUXURY HEADER - DARK ELEGANCE --&gt;
+&lt;div align="center"&gt;
+  &lt;img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,50:1a1a1a,100:0f172a&height=250&section=header&text=Syamil%20CA&fontSize=70&fontAlignY=55&animation=fadeIn&desc=Software%20Engineering%20Student%20%7C%20Full%20Stack%20Developer&descAlignY=75&descSize=18&fontColor=d4af37&font=Playfair%20Display" width="100%"/&gt;
+&lt;/div&gt;
 
-<!-- GLITCH TYPING ANIMATION -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=40&duration=2500&pause=800&color=00FFFF&center=true&vCenter=true&width=800&lines=⚡+INITIALIZING+NEURAL+LINK...;🧠+CONSCIOUSNESS+UPLOADED;💻+FULL+STACK+IN+PROGRESS;🌐+CONNECTED+FROM+LAMPUNG;🔥+PREMIUM+ULTRAMAX+ACTIVATED" alt="Glitch Typing" />
-</div>
+&lt;!-- SUBTLE TYPING - ELEGANT --&gt;
+&lt;div align="center"&gt;
+  &lt;img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=300&size=28&duration=4000&pause=1000&color=94a3b8&center=true&vCenter=true&width=600&lines=Crafting+digital+experiences+with+precision;Building+scalable+solutions+from+Lampung;Always+learning%2C+always+growing" alt="Elegant Typing" /&gt;
+&lt;/div&gt;
 
-<!-- MATRIX RAIN EFFECT (Simulated) -->
-<div align="center">
-  <img src="https://media.giphy.com/media/WoD6JZnwap6s8H4caF/giphy.gif" width="100%" height="10px" style="max-height: 10px; object-fit: cover;" alt="Matrix Line" />
-</div>
+&lt;br&gt;
 
-<br>
+&lt;!-- MINIMALIST BADGES - GOLD ACCENT --&gt;
+&lt;div align="center"&gt;
+  &lt;img src="https://komarev.com/ghpvc/?username=MilQ28&label=Views&color=1a1a1a&style=flat-square" alt="Profile Views" /&gt;
+  &lt;img src="https://img.shields.io/github/followers/MilQ28?label=Followers&color=d4af37&style=flat-square&logo=github&logoColor=d4af37&labelColor=0a0a0a" alt="Followers" /&gt;
+  &lt;img src="https://img.shields.io/github/stars/MilQ28?label=Stars&color=d4af37&style=flat-square&logo=github&logoColor=d4af37&labelColor=0a0a0a" alt="Stars" /&gt;
+&lt;/div&gt;
 
-<!-- CYBERNETIC BADGES -->
-<div align="center">
-  
-  [![Visitors](https://komarev.com/ghpvc/?username=MilQ28&label=⚡%20NEURAL%20CONNECTIONS&color=00FFFF&style=for-the-badge)](https://github.com/MilQ28)
-  [![Followers](https://img.shields.io/github/followers/MilQ28?label=⛓️%20CYBER%20FOLLOWERS&color=FF00FF&style=for-the-badge)](https://github.com/MilQ28)
-  [![Stars](https://img.shields.io/github/stars/MilQ28?label=⭐%20DATA%20STARS&color=FFFF00&style=for-the-badge)](https://github.com/MilQ28)
-  [![Location](https://img.shields.io/badge/📍-LAMPUNG%20CYBER%20ZONE-00FFFF?style=for-the-badge)](https://google.com/maps/search/Lampung)
-  [![Status](https://img.shields.io/badge/🎓-RPL%20STUDENT%20v2.0-FF00FF?style=for-the-badge)](https://github.com/MilQ28)
-  
-</div>
+&lt;br&gt;
 
-<br>
+&lt;!-- SOCIAL LINKS - MINIMALIST --&gt;
+&lt;div align="center"&gt;
+  &lt;a href="mailto:syamilcholidatsani@gmail.com" style="text-decoration: none;"&gt;
+    &lt;img src="https://img.shields.io/badge/Email-0a0a0a?style=flat-square&logo=gmail&logoColor=d4af37" /&gt;
+  &lt;/a&gt;
+  &lt;a href="https://linkedin.com/in/syamil-ca"&gt;
+    &lt;img src="https://img.shields.io/badge/LinkedIn-0a0a0a?style=flat-square&logo=linkedin&logoColor=d4af37" /&gt;
+  &lt;/a&gt;
+  &lt;a href="https://instagram.com/syamil.ca"&gt;
+    &lt;img src="https://img.shields.io/badge/Instagram-0a0a0a?style=flat-square&logo=instagram&logoColor=d4af37" /&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
 
-<!-- HOLOGRAPHIC SOCIAL LINKS -->
-<div align="center">
-  
-  [![Gmail](https://img.shields.io/badge/📡%20SEND%20SIGNAL-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:syamilcholidatsani@gmail.com)
-  [![Instagram](https://img.shields.io/badge/📸%20HOLO%20FEED-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000)](https://instagram.com/syamil.ca)
-  [![LinkedIn](https://img.shields.io/badge/💼%20PROF%20NET-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://linkedin.com/in/syamil-ca)
-  [![Discord](https://img.shields.io/badge/🎮%20VOICE%20CHAT-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=000000)](https://discord.gg/syamil)
-  
-</div>
+&lt;br&gt;
 
-<br>
+&lt;!-- ELEGANT DIVIDER --&gt;
+&lt;img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" style="opacity: 0.3; filter: grayscale(100%) brightness(0.5);" /&gt;
 
-<!-- NEON DIVIDER -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
+&lt;!-- ABOUT SECTION - GLASSMORPHISM STYLE --&gt;
+&lt;h2 align="center" style="color: #d4af37; font-family: 'Playfair Display', serif;"&gt;About&lt;/h2&gt;
 
-<!-- SYSTEM STATUS -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/3o7TKTDn976rzVgky4/giphy.gif" width="40"> 
-  SYSTEM STATUS: ONLINE 
-  <img src="https://media.giphy.com/media/3o7TKTDn976rzVgky4/giphy.gif" width="40">
-</h2>
+&lt;div align="center" style="background: rgba(26, 26, 26, 0.6); backdrop-filter: blur(10px); border: 1px solid rgba(212, 175, 55, 0.2); border-radius: 12px; padding: 20px; margin: 20px 0;"&gt;
 
-<div align="center">
+&lt;p style="color: #94a3b8; font-size: 16px; line-height: 1.8; max-width: 600px;"&gt;
+I am a student from &lt;strong style="color: #d4af37;"&gt;Lampung, Indonesia&lt;/strong&gt;, pursuing Software Engineering (RPL). 
+With a strong foundation in web and mobile development, I focus on building 
+&lt;strong style="color: #f8fafc;"&gt;practical, scalable applications&lt;/strong&gt; through hands-on projects 
+and continuous learning.
+&lt;/p&gt;
 
-```diff
-+ NEURAL INTERFACE: CONNECTED
-+ LOCATION: LAMPUNG, INDONESIA_GRID
-+ CLASS: SOFTWARE_ENGINEERING_RPL
-+ LEVEL: STUDENT_DEVELOPER
-+ MODE: ALWAYS_LEARNING
-```
+&lt;/div&gt;
 
-</div>
+&lt;!-- EDUCATION & EXPERIENCE --&gt;
+&lt;h2 align="center" style="color: #d4af37;"&gt;Education & Experience&lt;/h2&gt;
 
-<!-- CYBERNETIC PROFILE -->
-<h2 align="center">👾 CYBERNETIC ENHANCEMENTS 👾</h2>
+&lt;table align="center" border="0" style="border-collapse: separate; border-spacing: 20px;"&gt;
+  &lt;tr&gt;
+    &lt;td width="50%" valign="top" style="background: #0f172a; border-radius: 12px; padding: 20px; border-left: 3px solid #d4af37;"&gt;
+      
+### 🎓 Education
+**Software Engineering (RPL)**
+- Fundamental & advanced programming
+- Web development & system design
+- Database architecture
 
-<table align="center" border="0">
-  <tr>
-    <td width="55%" valign="top">
+    &lt;/td&gt;
+    &lt;td width="50%" valign="top" style="background: #0f172a; border-radius: 12px; padding: 20px; border-left: 3px solid #64748b;"&gt;
+      
+### 💡 Philosophy
+- Clean code architecture
+- User-centric design
+- Continuous improvement
+- Real-world problem solving
 
-### 🧠 Core Processing Unit
-- **Primary OS:** Education OS (RPL Major)
-- **Architecture:** Web & Mobile Development
-- **Learning Algorithm:** Continuous_Improvement_v2.0
-- **Current Task:** Full_Stack_Transformation.exe
+### 🎯 Current Focus
+Mastering full-stack development with emphasis on **scalable systems** and **efficient code**.
 
-### 🏫 Network Nodes (Organizations)
-- **MPK_NODE:** Student Council Member
-- **ITClub_NODE:** Programming Division
-- **Tech_Support:** Media Management Protocol
+    &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
 
-### ⚡ Power Source
-- ☕ Coffee to Code Converter: **98% Efficiency**
-- 🔋 Energy Level: Always Charged
-- 🎯 Focus Mode: **MAXIMUM**
+&lt;br&gt;
 
-    </td>
-    <td width="45%" align="center">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350px" style="border-radius: 10px; box-shadow: 0 0 20px #00FFFF;" alt="Hacker GIF">
-      <br><br>
-      <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="350px" style="border-radius: 10px; box-shadow: 0 0 20px #FF00FF;" alt="Coding Matrix">
-    </td>
-  </tr>
-</table>
+&lt;!-- TECH STACK - ELEGANT ICONS --&gt;
+&lt;h2 align="center" style="color: #d4af37;"&gt;Technical Expertise&lt;/h2&gt;
 
-<br>
+&lt;div align="center" style="background: linear-gradient(135deg, #0a0a0a 0%, #1a1a1a 100%); padding: 30px; border-radius: 16px; border: 1px solid rgba(212, 175, 55, 0.1);"&gt;
 
-<!-- WEAPON SYSTEMS (TECH STACK) -->
-<h2 align="center">⚔️ WEAPON SYSTEMS LOADOUT ⚔️</h2>
+### Frontend
+&lt;p&gt;
+  &lt;img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind,bootstrap&theme=dark" style="filter: grayscale(30%) contrast(1.1);" /&gt;
+&lt;/p&gt;
 
-<div align="center">
+### Backend
+&lt;p&gt;
+  &lt;img src="https://skillicons.dev/icons?i=php,laravel,nodejs,java&theme=dark" style="filter: grayscale(30%) contrast(1.1);" /&gt;
+&lt;/p&gt;
 
-### 🔫 Frontend Arsenal
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind,bootstrap&theme=light" style="filter: drop-shadow(0 0 10px #00FFFF);" />
-</p>
+### Database & Tools
+&lt;p&gt;
+  &lt;img src="https://skillicons.dev/icons?i=mysql,git,github,vscode&theme=dark" style="filter: grayscale(30%) contrast(1.1);" /&gt;
+&lt;/p&gt;
 
-### 🛡️ Backend Shield
-<p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,java&theme=light" style="filter: drop-shadow(0 0 10px #FF00FF);" />
-</p>
+&lt;/div&gt;
 
-### 💾 Database Core
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode&theme=light" style="filter: drop-shadow(0 0 10px #FFFF00);" />
-</p>
+&lt;br&gt;
 
-</div>
+&lt;!-- PROJECTS - CARD STYLE --&gt;
+&lt;h2 align="center" style="color: #d4af37;"&gt;Featured Projects&lt;/h2&gt;
 
-<br>
+&lt;div align="center"&gt;
 
-<!-- PROJECT DEPLOYMENTS -->
-<h2 align="center">🚀 DEPLOYED PROTOCOLS 🚀</h2>
+| Project | Description | Stack |
+|:--------|:------------|:------|
+| **Alumni Dashboard** | Management system for school alumni data | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) |
+| **Task Management** | Productivity application with intuitive UX | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Node](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) |
+| **Backend API** | RESTful API with secure authentication | ![Node](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
 
-<div align="center">
+&lt;/div&gt;
 
-| Mission | Objective Status | Tech Payload |
-|---------|------------------|--------------|
-| **🎓 Alumni Dashboard** | ✅ OPERATIONAL | PHP, Laravel, MySQL |
-| **✅ Task Management** | ✅ OPERATIONAL | JavaScript, React, Node |
-| **🔌 Backend API** | ✅ OPERATIONAL | Node.js, Express |
-| **🌐 Portfolio System** | 🔄 IN DEVELOPMENT | React, Tailwind |
+&lt;br&gt;
 
-</div>
+&lt;!-- GITHUB STATS - DARK ELEGANT --&gt;
+&lt;h2 align="center" style="color: #d4af37;"&gt;GitHub Analytics&lt;/h2&gt;
 
-<br>
+&lt;div align="center"&gt;
+  &lt;img width="48%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MilQ28&show_icons=true&count_private=true&hide_border=true&title_color=d4af37&icon_color=64748b&text_color=94a3b8&bg_color=0a0a0a&cache_seconds=86400&border_radius=8&hide_title=true" alt="Stats" /&gt;
+  &lt;img width="48%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MilQ28&layout=compact&hide_border=true&title_color=d4af37&text_color=94a3b8&bg_color=0a0a0a&cache_seconds=86400&border_radius=8&hide_title=true" alt="Languages" /&gt;
+&lt;/div&gt;
 
-<!-- TACTICAL DISPLAY (STATS) -->
-<h2 align="center">📊 TACTICAL DISPLAY 📊</h2>
+&lt;br&gt;
 
-<div align="center">
-  
-  <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MilQ28&show_icons=true&count_private=true&hide_border=true&title_color=00FFFF&icon_color=FF00FF&text_color=FFFFFF&bg_color=000000&cache_seconds=86400&border_radius=10" alt="Cyber Stats" />
-  <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MilQ28&layout=compact&hide_border=true&title_color=00FFFF&text_color=FFFFFF&bg_color=000000&cache_seconds=86400&border_radius=10" alt="Language Matrix" />
-  
-</div>
+&lt;div align="center"&gt;
+  &lt;img width="85%" src="https://streak-stats.demolab.com?user=MilQ28&theme=dark&hide_border=true&background=0a0a0a&stroke=d4af37&ring=d4af37&fire=d4af37&currStreakNum=f8fafc&sideNums=94a3b8&currStreakLabel=d4af37&sideLabels=64748b" alt="Streak" /&gt;
+&lt;/div&gt;
 
-<br>
+&lt;br&gt;
 
-<div align="center">
-  <img width="90%" src="https://streak-stats.demolab.com?user=MilQ28&theme=neon&hide_border=true&background=000000&stroke=00FFFF&ring=FF00FF&fire=FFFF00&currStreakNum=00FFFF&sideNums=FF00FF&currStreakLabel=FFFF00&sideLabels=00FFFF" alt="Streak Counter" />
-</div>
+&lt;!-- ACTIVITY GRAPH - SUBTLE --&gt;
+&lt;h2 align="center" style="color: #d4af37;"&gt;Contribution Activity&lt;/h2&gt;
 
-<br>
+&lt;div align="center"&gt;
+  &lt;img src="https://github-readme-activity-graph.vercel.app/graph?username=MilQ28&bg_color=0a0a0a&color=64748b&line=d4af37&point=d4af37&area=true&hide_border=true&custom_title=Contribution%20Graph" width="90%" style="opacity: 0.9;" /&gt;
+&lt;/div&gt;
 
-<!-- ACHIEVEMENT UNLOCKED -->
-<h2 align="center">🏆 ACHIEVEMENTS UNLOCKED 🏆</h2>
+&lt;br&gt;
 
-<div align="center">
+&lt;!-- SNAKE - SUBTLE --&gt;
+&lt;h2 align="center" style="color: #d4af37;"&gt;Contribution Pattern&lt;/h2&gt;
 
-  [![Holopin](https://holopin.me/MilQ28)](https://holopin.io/@MilQ28)
-  
-  <br>
-  
-  <img src="https://github-profile-trophy.vercel.app/?username=MilQ28&theme=onestar&no-frame=true&row=1&column=6&margin-w=15" width="100%" alt="Trophy" />
-  
-</div>
+&lt;div align="center" style="background: #0a0a0a; padding: 20px; border-radius: 12px;"&gt;
+  &lt;picture&gt;
+    &lt;source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MilQ28/MilQ28/output/github-contribution-grid-snake-dark.svg"&gt;
+    &lt;source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MilQ28/MilQ28/output/github-contribution-grid-snake.svg"&gt;
+    &lt;img alt="Snake" src="https://raw.githubusercontent.com/MilQ28/MilQ28/output/github-contribution-grid-snake.svg" width="95%" style="opacity: 0.8;"&gt;
+  &lt;/picture&gt;
+&lt;/div&gt;
 
-<br>
+&lt;br&gt;
 
-<!-- BATTLE LOG (ACTIVITY) -->
-<h2 align="center">🔥 BATTLE LOG (CONTRIBUTIONS) 🔥</h2>
+&lt;!-- GOALS - MINIMALIST --&gt;
+&lt;h2 align="center" style="color: #d4af37;"&gt;2026 Objectives&lt;/h2&gt;
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MilQ28&bg_color=000000&color=00FFFF&line=FF00FF&point=FFFF00&area=true&hide_border=true&custom_title=NEURAL%20ACTIVITY%20GRAPH" width="95%" alt="Battle Log" />
-</div>
+&lt;div align="center" style="max-width: 600px;"&gt;
 
-<br>
+- [x] Master fundamental web technologies
+- [x] Build production-ready Laravel applications  
+- [ ] **In Progress:** Full-stack proficiency
+- [ ] Contribute to meaningful open source
+- [ ] Secure first professional internship
+- [ ] Develop scalable system architecture skills
 
-<!-- CYBER SNAKE -->
-<h2 align="center">🐍 CYBER SNAKE PROTOCOL 🐍</h2>
+&lt;/div&gt;
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MilQ28/MilQ28/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MilQ28/MilQ28/output/github-contribution-grid-snake.svg">
-    <img alt="Cyber Snake" src="https://raw.githubusercontent.com/MilQ28/MilQ28/output/github-contribution-grid-snake.svg" width="100%" style="filter: drop-shadow(0 0 10px #00FFFF);">
-  </picture>
-</div>
+&lt;br&gt;
 
-<br>
+&lt;!-- QUOTE - ELEGANT --&gt;
+&lt;div align="center" style="font-style: italic; color: #64748b; border-left: 2px solid #d4af37; padding-left: 20px; max-width: 500px; text-align: left;"&gt;
+"Simplicity is the ultimate sophistication."
+&lt;br&gt;
+&lt;span style="color: #d4af37; font-size: 0.9em;"&gt;— Leonardo da Vinci&lt;/span&gt;
+&lt;/div&gt;
 
-<!-- MISSION OBJECTIVES -->
-<h2 align="center">🎯 MISSION OBJECTIVES 2026 🎯</h2>
+&lt;br&gt;
 
-<div align="center">
+&lt;!-- FOOTER - LUXURY --&gt;
+&lt;div align="center"&gt;
+  &lt;img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:1a1a1a,100:0a0a0a&height=150&section=footer&text=Thank%20You&fontSize=40&fontAlignY=65&animation=fadeIn&desc=For%20visiting%20my%20digital%20space&descAlignY=85&descSize=14&fontColor=d4af37" width="100%"/&gt;
+&lt;/div&gt;
 
-PHASE_1: MASTER_FUNDAMENTALS
-  status: ✅ COMPLETED
-  tech: [HTML, CSS, JS, PHP]
-
-PHASE_2: FULL_STACK_AWAKENING
-  status: 🔄 IN_PROGRESS
-  tech: [Laravel, React, Node]
-
-PHASE_3: REAL_WORLD_DEPLOYMENT
-  status: ⏳ PENDING
-  target: Open Source Contribution
-
-PHASE_4: PROFESSIONAL_INTEGRATION
-  status: ⏳ PENDING
-  target: First Tech Internship
-
-</div>
-
-<br>
-
-<!-- QUOTE FROM THE MATRIX -->
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true&quote=I%20know%20kung%20fu...%20and%20coding.&author=The%20Matrix%20(probably)" width="70%" />
-</div>
-
-<br>
-
-<!-- EPIC FOOTER -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=shark&color=0:FFFF00,50:FF00FF,100:00FFFF&height=250&section=footer&text=SYSTEM%20OFFLINE&fontSize=60&fontAlignY=70&animation=twinkling&desc=⚡%20Thanks%20for%20visiting%20my%20digital%20realm%20⚡&descAlignY=85&descSize=20&fontColor=fff&stroke=FF00FF&strokeWidth=2" width="100%"/>
-</div>
-
-<div align="center">
-  
-  ### 🔻 TERMINATE CONNECTION? [N/Y] 🔻
-  
-  <br>
-  
-  [![Counter](https://komarev.com/ghpvc/?username=MilQ28&label=⚡%20TOTAL%20SYSTEM%20ACCESSES&color=00FFFF&style=flat-square)](https://github.com/MilQ28)
-  
-  <br>
-  
-  **© 2099 SYAMIL CA | LAMPUNG CYBER ZONE | ALL RIGHTS RESERVED**
-  
-</div>
+&lt;div align="center" style="color: #64748b; font-size: 0.85em; margin-top: 20px;"&gt;
+  &lt;strong style="color: #d4af37;"&gt;Syamil CA&lt;/strong&gt; • Software Engineering Student • Lampung, Indonesia
+  &lt;br&gt;
+  &lt;img src="https://komarev.com/ghpvc/?username=MilQ28&color=1a1a1a&style=flat-square" alt="Views" /&gt;
+&lt;/div&gt;
