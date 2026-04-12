@@ -15,8 +15,6 @@
   <img src="https://komarev.com/ghpvc/?username=MilQ28&label=Profile%20Views&color=green&style=for-the-badge" />
 </div>
 
-<br/>
-
 <div align="center">
   <a href="https://www.linkedin.com/in/syamil-cholid-atsani-2b54b828a/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
