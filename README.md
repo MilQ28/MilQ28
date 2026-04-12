@@ -120,13 +120,14 @@
 
 <br>
 
-<!-- FOOTER MEWAH -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9400D3,50:FF1493,100:FFD700&height=200&section=footer&text=Thanks%20For%20Visiting!&fontSize=50&fontAlignY=70&animation=fadeIn&desc=Star%20my%20repos%20if%20you%20like%20them!&descAlignY=90&descSize=20&fontColor=fff" width="100%"/>
-</div>
-
 <div align="center">
   <b>⭐ Star this repo if you like my profile! ⭐</b>
   <br>
   <img src="https://komarev.com/ghpvc/?username=MilQ28&label=Total%20Visits&color=gold&style=flat-square" alt="Total Visits" />
 </div>
+
+<!-- FOOTER MEWAH -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9400D3,50:FF1493,100:FFD700&height=200&section=footer&text=Thanks%20For%20Visiting!&fontSize=50&fontAlignY=70&animation=fadeIn&desc=Star%20my%20repos%20if%20you%20like%20them!&descAlignY=90&descSize=20&fontColor=fff" width="100%"/>
+</div>
+
