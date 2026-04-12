@@ -48,7 +48,7 @@
 <br/>
 
 <div align="center">
-  <h2>⚔️ Complete Tech Arsenal ⚔️</h2>
+  <h2>My Skills?</h2>
   
   <h3>🎨 Frontend Mastery</h3>
   <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,angular,svelte,solidjs&theme=dark" />
