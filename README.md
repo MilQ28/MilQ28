@@ -3,9 +3,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,50:FF1493,100:9400D3&height=300&section=header&text=SYAMIL%20CA&fontSize=80&fontAlignY=35&animation=fadeIn&desc=✨%20Premium%20UltraMax%20Developer%20✨&descAlignY=55&descSize=25&fontColor=fff" width="100%"/>
 </div>
 
-<!-- TYPING ANIMATION - ALTERNATIF YANG WORK -->
+<!-- TYPING ANIMATION -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=700&lines=Welcome+to+My+Digital+Kingdom+👑;Full+Stack+Developer+💻;UI%2FUX+Enthusiast+🎨;Problem+Solver+🧩;Always+Learning+🚀" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=700&lines=Welcome+to+My+Digital+Kingdom+👑;Full+Stack+Developer+💻;UI%2FUX+Enthusiast+🎨;Always+Learning+🚀" alt="Typing Animation" />
 </div>
 
 <br>
@@ -19,7 +19,7 @@
 
 <br>
 
-<!-- SOCIAL LINKS PREMIUM -->
+<!-- SOCIAL LINKS -->
 <div align="center">
   <a href="https://linkedin.com/in/syamil-ca">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -37,7 +37,7 @@
 
 <br>
 
-<!-- ABOUT ME SECTION -->
+<!-- ABOUT ME -->
 <h2 align="center">👑 About The Legend 👑</h2>
 
 <div align="center">
@@ -52,7 +52,7 @@
 
 <br>
 
-<!-- TECH STACK PREMIUM -->
+<!-- TECH STACK -->
 <h2 align="center">⚔️ Tech Arsenal ⚔️</h2>
 
 <div align="center">
@@ -73,27 +73,31 @@
 
 <br>
 
-<!-- GITHUB STATS MEWAH -->
+<!-- GITHUB STATS - FIXED VERSION -->
 <h2 align="center">📊 Performance Metrics 📊</h2>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=MilQ28&show_icons=true&count_private=true&hide_border=true&title_color=FFD700&icon_color=FF1493&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" /> 
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MilQ28&layout=compact&hide_border=true&title_color=FFD700&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" />
+  <!-- PAKAI CACHE & RICKSTAA INSTANCE (lebih stabil) -->
+  <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MilQ28&show_icons=true&count_private=true&hide_border=true&title_color=FFD700&icon_color=FF1493&text_color=c9d1d9&bg_color=0d1117&cache_seconds=86400" alt="GitHub Stats" /> 
+  <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MilQ28&layout=compact&hide_border=true&title_color=FFD700&text_color=c9d1d9&bg_color=0d1117&cache_seconds=86400" alt="Top Languages" />
 </div>
 
 <br>
 
+<!-- STREAK STATS - ALTERNATIF -->
 <div align="center">
-  <img width="90%" src="https://streak-stats.demolab.com?user=MilQ28&theme=highcontrast&hide_border=true&background=0d1117&stroke=FFD700&ring=FF1493&fire=FFD700&currStreakNum=FFD700&sideNums=FF1493" alt="GitHub Streak" />
+  <img width="90%" src="https://streak-stats.demolab.com?user=MilQ28&theme=highcontrast&hide_border=true&background=0d1117&stroke=FFD700&ring=FF1493&fire=FFD700&currStreakNum=FFD700&sideNums=FF1493&cache_seconds=86400" alt="GitHub Streak" />
 </div>
 
 <br>
 
-<!-- TROPHY COLLECTION - ALTERNATIF -->
-<h2 align="center">🏆 Trophy Collection 🏆</h2>
-
+<!-- STATS SUMMARY (Backup kalau gambar di atas error) -->
 <div align="center">
-  <img src="https://github-trophies.vercel.app/?username=MilQ28&theme=darkhub&no-frame=true&row=2&column=4" width="100%" alt="Trophy" />
+  
+[![Syamil's GitHub Stats](https://img.shields.io/badge/dynamic/json?color=gold&label=Public%20Repos&query=public_repos&url=https://api.github.com/users/MilQ28&logo=github)](https://github.com/MilQ28)
+[![Syamil's GitHub Stats](https://img.shields.io/badge/dynamic/json?color=purple&label=Followers&query=followers&url=https://api.github.com/users/MilQ28&logo=github)](https://github.com/MilQ28)
+[![Syamil's GitHub Stats](https://img.shields.io/badge/dynamic/json?color=ff69b4&label=Following&query=following&url=https://api.github.com/users/MilQ28&logo=github)](https://github.com/MilQ28)
+  
 </div>
 
 <br>
@@ -120,7 +124,7 @@
 
 <br>
 
-<!-- FOOTER MEWAH -->
+<!-- FOOTER -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9400D3,50:FF1493,100:FFD700&height=200&section=footer&text=Thanks%20For%20Visiting!&fontSize=50&fontAlignY=70&animation=fadeIn&desc=Star%20my%20repos%20if%20you%20like%20them!&descAlignY=90&descSize=20&fontColor=fff" width="100%"/>
 </div>
