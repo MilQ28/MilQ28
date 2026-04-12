@@ -47,20 +47,22 @@
 
 </div>
 
-<!-- 3D CONTRIBUTION GRAPH (NEW) -->
+<!-- 3D CONTRIBUTION - UNCOMMENT SETELAH WORKFLOW JALAN -->
+
 <h2 align="center">🌌 3D Contribution Galaxy</h2>
 <div align="center">
   <img src="https://raw.githubusercontent.com/MilQ28/MilQ28/output/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
 </div>
 
-<!-- FEATURED PROJECTS (NEW) -->
+<!-- FEATURED PROJECTS - GANTI NAMA REPO DENGAN YANG KAMU PUNYA -->
 <h2 align="center">🚀 Featured Projects</h2>
 <div align="center">
-  <a href="https://github.com/MilQ28/project-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MilQ28&repo=project-1&theme=dark&hide_border=true&title_color=FFD700&icon_color=FF1493&bg_color=0d1117" />
+  <!-- GANTI 'nama-repo-1' dengan nama repository kamu yang beneran ada -->
+  <a href="https://github.com/MilQ28/nama-repo-1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MilQ28&repo=nama-repo-1&theme=dark&hide_border=true&title_color=FFD700&icon_color=FF1493&bg_color=0d1117" />
   </a>
-  <a href="https://github.com/MilQ28/project-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MilQ28&repo=project-2&theme=dark&hide_border=true&title_color=FFD700&icon_color=FF1493&bg_color=0d1117" />
+  <a href="https://github.com/MilQ28/nama-repo-2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MilQ28&repo=nama-repo-2&theme=dark&hide_border=true&title_color=FFD700&icon_color=FF1493&bg_color=0d1117" />
   </a>
 </div>
 
@@ -74,7 +76,7 @@
   </picture>
 </div>
 
-<!-- DEV QUOTE (NEW) -->
+<!-- DEV QUOTE -->
 <h2 align="center">💭 Dev Quote of the Day</h2>
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true" />
