@@ -15,7 +15,7 @@
 - 🔭 I’m currently working on **Awesome Projects**
 - 🌱 I’m currently learning **Everything**
 - 💬 Ask me about **Web Development**
-- 📫 How to reach me: **your.email@example.com**
+- 📫 How to reach me: **syamilcholidatsani@example.com**
 
 ### 🛠️ Languages and Tools:
 <p align="center">
@@ -29,10 +29,6 @@
 </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=100&section=footer" width="100%"/>
-</div>
-
-<div align="center">
   <h2>🐍 Contribution Snake</h2>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MilQ28/MilQ28/output/github-contribution-grid-snake-dark.svg">
@@ -40,3 +36,8 @@
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MilQ28/MilQ28/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=100&section=footer" width="100%"/>
+</div>
+
