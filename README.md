@@ -51,7 +51,7 @@ With a strong foundation in web and mobile development, I focus on building **pr
   &lt;tr&gt;
     &lt;td width="50%" valign="top"&gt;
 
-### Education
+### 🎓 Education
 **Software Engineering (RPL)**
 - Fundamental & advanced programming
 - Web development & system design
@@ -64,7 +64,7 @@ With a strong foundation in web and mobile development, I focus on building **pr
     &lt;/td&gt;
     &lt;td width="50%" valign="top"&gt;
 
-### Philosophy
+### 💡 Philosophy
 - Clean code architecture
 - User-centric design  
 - Continuous improvement
