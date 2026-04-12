@@ -7,11 +7,15 @@
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=35&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=700&lines=Welcome+to+My+Digital+Kingdom;Full+Stack+Developer;AI+Enthusiast;I+Want+the+World+In+My+Hands" />
 </div>
 
+<br/>
+
 <div align="center">
   <img src="https://img.shields.io/badge/dynamic/json?color=gold&label=Public%20Repos&query=public_repos&url=https://api.github.com/users/MilQ28&logo=github&style=for-the-badge" />
   <img src="https://img.shields.io/badge/dynamic/json?color=purple&label=Followers&query=followers&url=https://api.github.com/users/MilQ28&logo=github&style=for-the-badge" />
   <img src="https://komarev.com/ghpvc/?username=MilQ28&label=Profile%20Views&color=green&style=for-the-badge" />
 </div>
+
+<br/>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/syamil-cholid-atsani-2b54b828a/">
@@ -28,6 +32,8 @@
   </a>
 </div>
 
+<br/>
+
 <div align="center">
   <h2>🎵 Now Playing</h2>
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=default&show_offline=false&background_color=0d1117&interchange=true" />
@@ -40,6 +46,8 @@
   <p>💬 Ask me about <strong>Anything but love story</strong></p>
   <p>⚡ Fun fact: <strong>I turn coffee into scalable code</strong> ☕➡️💻</p>
 </div>
+
+<br/>
 
 <div align="center">
   <h2>⚔️ Complete Tech Arsenal ⚔️</h2>
@@ -81,10 +89,14 @@
   <img src="https://skillicons.dev/icons?i=unity,unreal,godot,blender&theme=dark" />
 </div>
 
+<br/>
+
 <div align="center">
   <h2>🌌 3D Contribution Calendar</h2>
   <img src="https://raw.githubusercontent.com/MilQ28/MilQ28/output/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
 </div>
+
+<br/>
 
 <div align="center">
   <h2>🚀 Featured Projects</h2>
@@ -96,10 +108,14 @@
   </a>
 </div>
 
+<br/>
+
 <div align="center">
   <h2>📈 Contribution Graph</h2>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MilQ28&bg_color=0d1117&color=FFD700&line=FF1493&point=FFD700&area=true&hide_border=true&height=300" width="95%"/>
 </div>
+
+<br/>
 
 <div align="center">
   <h2>⚡ Recent Activity</h2>
@@ -113,6 +129,8 @@
 
 </div>
 
+<br/>
+
 <div align="center">
   <h2>🌍 Visitor Map</h2>
   <img src="https://api.visitorbadge.io/api/visitors?path=MilQ28&label=VISITORS&labelColor=%230d1117&countColor=%23FFD700&style=for-the-badge" />
@@ -120,10 +138,14 @@
   <img src="https://profile-counter.glitch.me/MilQ28/count.svg" />
 </div>
 
+<br/>
+
 <div align="center">
   <h2>😂 Coding Joke</h2>
   <img src="https://readme-jokes.vercel.app/api?theme=dark&hideBorder" />
 </div>
+
+<br/>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9400D3,50:FF1493,100:FFD700&height=200&section=footer&text=Thanks%20For%20Visiting!&fontSize=50&fontAlignY=70&animation=fadeIn&fontColor=fff" width="100%"/>
