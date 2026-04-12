@@ -10,7 +10,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/dynamic/json?color=gold&label=Public%20Repos&query=public_repos&url=https://api.github.com/users/MilQ28&logo=github&style=for-the-badge" />
   <img src="https://img.shields.io/badge/dynamic/json?color=purple&label=Followers&query=followers&url=https://api.github.com/users/MilQ28&logo=github&style=for-the-badge" />
-  <img src="https://komarev.com/ghpvc/?username=MilQ28&label=Profile%20Views&color=gold&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=MilQ28&label=Profile%20Views&color=green&style=for-the-badge" />
 </div>
 
 <div align="center">
