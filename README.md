@@ -22,7 +22,7 @@
   <a href="mailto:syamilcholidatsani@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://instagram.com/samil.bsyv/">
+  <a href="https://instagram.com/samil_bsyv/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://discord.gg/5AfRYqjX">
