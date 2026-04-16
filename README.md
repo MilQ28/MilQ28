@@ -91,6 +91,11 @@
   <img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,arch,kali,raspberrypi,windows&theme=dark" />
   <br>
   <img src="https://skillicons.dev/icons?i=ps,ai,pr,ae,blender,threejs,unity,unreal&theme=dark" />
+
+  <h3>🎮 Game Development</h3>
+  <img src="https://skillicons.dev/icons?i=unity,unreal,godot,gamemakerstudio,cpp,cs,lua,py,rust&theme=dark" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=blender,threejs,apple,windows&theme=dark" />
 </div>
 
 <br/>
