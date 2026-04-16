@@ -33,8 +33,12 @@
 <br/>
 
 <div align="center">
-  <h2>🎵 Now Playing</h2>
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=default&show_offline=false&background_color=0d1117&interchange=true" />
+  <h3>🎵 Now Playing on YouTube</h3>
+  <p align="center">
+    <a href="https://www.youtube.com/channel/UCsPalKfTa4fQIRCDjxEHrWg">
+  <img src="https://github-readmes.vercel.app/api/youtube?channelId=UCsPalKfTa4fQIRCDjxEHrWg&layout=full&theme=dark" />
+</a>
+  </p>
 </div>
 
 <div align="center">
