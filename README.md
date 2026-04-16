@@ -48,43 +48,49 @@
 <br/>
 
 <div align="center">
-  <h2>My Skills?</h2>
-  
-  <h3>🎨 Frontend Mastery</h3>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,angular,svelte,solidjs&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,sass,tailwind,bootstrap&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=webpack,vite,rollup,npm,yarn,pnpm&theme=dark" />
-  
-  <h3>⚙️ Backend Power</h3>
-  <img src="https://skillicons.dev/icons?i=nodejs,deno,express,nestjs,fastify&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=python,django,flask,fastapi&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=go,rust,c,cpp,java,spring,kotlin&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,php,laravel,ruby,rails&theme=dark" />
-  
+  <h2>🚀 My Professional Stack</h2>
+
+  <h3>🌐 Programming Languages</h3>
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,php,js,ts,go,rust,ruby,swift,kotlin,dart,lua&theme=dark" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=elixir,haskell,scala,clojure,matlab,r,solidity,perl,bash,powershell&theme=dark" />
+
+  <h3>🎨 Frontend Development</h3>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,nuxtjs,angular,svelte,solidjs&theme=dark" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,sass,less,styledcomponents,jquery,remix,astro&theme=dark" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=webpack,vite,rollup,babel,npm,yarn,pnpm,bun&theme=dark" />
+
+  <h3>⚙️ Backend & Frameworks</h3>
+  <img src="https://skillicons.dev/icons?i=nodejs,deno,express,nestjs,laravel,symfony&theme=dark" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=django,flask,fastapi,spring,dotnet,rails&theme=dark" />
+
   <h3>🗄️ Database & Storage</h3>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,redis,firebase&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=prisma,sequelize,mongoose&theme=dark" />
-  
-  <h3>☁️ Cloud & Infrastructure</h3>
-  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,vercel,netlify,heroku&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,githubactions&theme=dark" />
-  
-  <h3>📱 Mobile & Desktop</h3>
-  <img src="https://skillicons.dev/icons?i=flutter,reactnative,kotlin,swift&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=electron,tauri&theme=dark" />
-  
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb,redis,cassandra,dynamodb&theme=dark" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=firebase,supabase,appwrite,planetscale,prisma,sequelize&theme=dark" />
+
+  <h3>☁️ Cloud & DevOps</h3>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,vercel,netlify,heroku,cloudflare&theme=dark" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,githubactions,gitlab,ansible,terraform,nginx&theme=dark" />
+
+  <h3>🧠 AI, Data Science & Testing</h3>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn&theme=dark" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=jest,cypress,vitest,selenium,postman&theme=dark" />
+
   <h3>🛠️ Tools & Ecosystem</h3>
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=vscode,vim,neovim,idea&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=figma,xd,photoshop&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=linux,bash,powershell&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=graphql,postman,jest,cypress&theme=dark" />
-  
-  <h3>🧠 AI & Data</h3>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,pandas,numpy&theme=dark" />
-  
-  <h3>🎮 Game Dev</h3>
-  <img src="https://skillicons.dev/icons?i=unity,unreal,godot,blender&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vim,neovim,idea,pycharm,webstorm,visualstudio&theme=dark" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=graphql,apollo,regex,md,notion,discord,figma,xd&theme=dark" />
+
+  <h3>💻 OS & Creative</h3>
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,arch,kali,raspberrypi,windows&theme=dark" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=ps,ai,pr,ae,blender,threejs,unity,unreal&theme=dark" />
 </div>
 
 <br/>
