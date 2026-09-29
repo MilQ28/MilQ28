@@ -1,0 +1,52 @@
+name: Update Profile README
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"   # setiap 6 jam
+  workflow_dispatch:         # bisa dijalankan manual dari tab Actions
+
+permissions:
+  contents: write
+
+jobs:
+  # 1) Recent Activity
+  activity:
+    name: Recent Activity
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          MAX_LINES: 5
+
+  # 2) Video YouTube terbaru (jalan setelah job activity agar tidak bentrok commit)
+  youtube:
+    name: Latest YouTube Videos
+    needs: activity
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          comment_tag_name: "YOUTUBE"
+          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCsPalKfTa4fQIRCDjxEHrWg"
+          max_post_count: 3
+
+  # 3) 3D Contribution Calendar -> branch "output"
+  contrib-3d:
+    name: 3D Contribution Calendar
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+      - uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          branch: output
+          folder: profile-3d-contrib
+          target-folder: profile-3d-contrib
+          clean: false
